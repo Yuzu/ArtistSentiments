@@ -4,7 +4,6 @@ class SentimentParser(object):
 
     def __init__(self):
         api_key = ""
-        max_songs = 5
 
 
     def parseLyrics(lyrics: str):
