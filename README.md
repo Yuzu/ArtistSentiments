@@ -9,4 +9,5 @@ This program will take an artist from the user, compile lyrics from their songs,
 # Dependencies
 
 * lyricsgenius
-
+* matplotlib
+* ibm-watson
