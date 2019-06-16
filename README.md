@@ -11,6 +11,3 @@ This program will take an artist from the user, compile lyrics from their songs,
 * lyricsgenius
 * matplotlib
 * ibm-watson
-* IBM Cloud API Key
-* Genius API Key
-
